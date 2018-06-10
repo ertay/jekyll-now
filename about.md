@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, there! I'm Ertay and I hope you will find the information on this blog interesting and helpful.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+This blog mostly covers my journey in finding fun things to do as my vision deteriorates and I can't do some of the things that I could do before. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+You can get in touch with me via [Twitter](http://twitter.com/ertaysh).
