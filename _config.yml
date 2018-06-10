@@ -6,10 +6,21 @@
 name: Sightless.fun
 
 # Short bio or description (displayed in the header)
+collections:
+  categories:
+    output: true
+
 description: Finding fun in an unsighted world...
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:
+
+# defaults, used for categories only atm
+defaults:
+  - scope:
+      path: "_categories"
+    values:
+      layout: "category"
 
 #
 # Flags below are optional
