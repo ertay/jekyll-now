@@ -12,7 +12,7 @@ permalink: "/categories/"
   <ul>
     {% for c in post.categories %}
       {% if c == category.tag %}
-        <li><h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3></li>
+        <li><h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4></li>
       {% endif %}
     {% endfor %}
     </ul>
