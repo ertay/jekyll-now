@@ -5,15 +5,20 @@ layout: default
 <article class="post">
   <h1>{{ page.title }}</h1>
   <span class="date">{{ page.date | date_to_string }}</span>
+  
+
+  
   {% if page.categories %} | 
   {% for category in site.categories %}
     {% for c in page.categories %}
       {% if c == category.tag %}
         <a href="{{category.permalink}}">{{category.title}}</a>
+        <span class="comma">,</span>
         {% endif %}
     {% endfor %}
   {% endfor %}
   {% endif %}
+  </span>
   <div class="entry">
     {{ content }}
   </div>
