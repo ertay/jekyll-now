@@ -13,6 +13,10 @@ description: Finding fun in an unsighted world...
 avatar:
 
 # defaults, used for categories only atm
+collections:
+  categories:
+    output: true
+
 defaults:
   - scope:
       path: "_categories"
