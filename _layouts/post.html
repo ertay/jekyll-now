@@ -7,7 +7,7 @@ layout: default
   <span class="date">{{ page.date | date_to_string }}</span>
   {% if page.categories %} | 
   {% for category in page.categories %}
-    <a href="{{ site.baseurl }}/{{ category.permalink }}">{{ category.title }}</a>
+    <a href="{{ category.permalink }}">{{ category.title }}</a>
   {% endfor %}
   {% endif %}
   <div class="entry">
