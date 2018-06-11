@@ -8,7 +8,7 @@ permalink: "/categories/"
 {% for category in categories %}
 <h2><a href="{{category.permalink}}">{{category.title}}</a></h2>
 {% for post in site.posts %}
-  {% if post.catetgories %}
+  {% if post.categories %}
   <ul>
     {% for c in post.categories %}
       {% if c == category.tag %}
