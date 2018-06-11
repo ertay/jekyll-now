@@ -4,7 +4,7 @@ title: "Categories"
 permalink: "/categories/"
 ---
 
-{% assing categories = site.categories | sort: "tag" %}
+{% assign categories = site.categories | sort: "tag" %}
 {% for category in categories %}
 <h2><a href="{{category.permalink}}">{{category.title}}</a></h2>
 {% for post in site.posts %}
