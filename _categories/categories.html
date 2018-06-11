@@ -1,11 +1,14 @@
 ---
 layout: page
 title: "Categories"
-permalink: "/categories/"
+permalink: /categories/
 ---
 
 {% assign categories = site.categories | sort: "tag" %}
 {% for category in categories %}
+{% if category.tag == "" %}
+  {% continue %}
+{% endif %}
 <h2><a href="{{category.permalink}}">{{category.title}}</a></h2>
 {% for post in site.posts %}
   {% if post.categories %}
