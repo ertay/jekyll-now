@@ -261,8 +261,8 @@ nav {
     font-style: italic;
   }
 
-  .categories:last-child {
-    display: none;
+  .categories :last-child {
+    content: "";
   }
 
   .comments {
