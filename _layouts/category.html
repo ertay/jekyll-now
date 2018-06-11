@@ -7,7 +7,7 @@ layout: page
 {% for post in site.posts %}
   {% for c in post.categories %}
     {% if page.tag == c %}
-        {% include disqus.html %}
+        {% include post_excerpt.html %}
     {% endif %}
   {% endfor %}
 {% endfor %}
