@@ -6,9 +6,6 @@
 name: Sightless.fun
 
 # Short bio or description (displayed in the header)
-collections:
-  categories:
-    output: true
 
 description: Finding fun in an unsighted world...
 
