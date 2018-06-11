@@ -6,8 +6,12 @@ layout: default
   <h1>{{ page.title }}</h1>
   <span class="date">{{ page.date | date_to_string }}</span>
   {% if page.categories %} | 
-  {% for category in page.categories %}
-    <a href="{{ category.permalink }}">{{ category.title }}</a>
+  {% for sitecat in site.categories %}
+    {% for category in page.categories %}
+      {% if sitecat.tag == category %}
+        <a href="{{category.permalink}}">{{category.title}}</a>
+        {% endif %}
+    {% endfor %}
   {% endfor %}
   {% endif %}
   <div class="entry">
