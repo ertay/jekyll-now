@@ -260,11 +260,6 @@ nav {
     font-size: 22px;
     font-style: italic;
   }
-
-article.post span.post-categories:last-child {
-  display: none;  
-  }
-
   .comments {
     margin-top: 10px;
   }
@@ -274,6 +269,10 @@ article.post span.post-categories:last-child {
     font-size: 15px;
   }
 }
+
+article.post span.post-categories:last-child {
+  display: none;  
+  }
 
 .wrapper-footer {
   margin-top: 50px;
