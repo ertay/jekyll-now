@@ -6,7 +6,7 @@ permalink: /categories/
 
 {% assign categories = site.categories | sort: "tag" %}
 {% for category in categories %}
-{% if category.tag == "" %}
+{% if category.Title == "Categories" %}
   {% continue %}
 {% endif %}
 <h2><a href="{{category.permalink}}">{{category.title}}</a></h2>
