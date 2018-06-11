@@ -261,8 +261,8 @@ nav {
     font-style: italic;
   }
 
-  .post-categories span:last-child {
-    content: "dickbutt";
+article.post span.post-categories:last-child {
+  display: none;  
   }
 
   .comments {
