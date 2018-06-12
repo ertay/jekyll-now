@@ -6,7 +6,7 @@ layout: default
   <h1>{{ page.title }}</h1>
   <span class="date">{{ page.date | date_to_string }}</span>
   <span>
-  {% if page.categories %} | 
+  {% if page.categories %} | Posted in 
   {% for category in site.categories %}
     {% for c in page.categories %}
       {% if c == category.tag %}
@@ -20,8 +20,8 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+  <div class="post-newsletter">
+    If you liked this post, consider subscribing to the newsletter to stay updated with the latest content.
   </div>
 
   {% include disqus.html %}

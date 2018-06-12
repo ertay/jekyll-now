@@ -15,7 +15,7 @@ permalink: /categories/
   <ul>
     {% for c in post.categories %}
       {% if c == category.tag %}
-        <li><h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4></li>
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
       {% endif %}
     {% endfor %}
     </ul>
