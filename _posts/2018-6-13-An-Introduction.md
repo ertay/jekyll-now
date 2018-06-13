@@ -48,3 +48,5 @@ There are some incredibly fun games that I'm looking forward to sharing with you
 ## Until next time...
 
 This ended up being a bit long, but if you got this far, thank you for your time. I hope you enjoyed it. I would love to hear your stories or experiences in the comments below or if you prefer a more private conversation you can email me at sightlessfun@outlook.com. 
+
+Stay tuned as we delve deeper into the activities mentioned above in more detail with accessibility reviews and other content.
