@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "From Ones and Zeroes to Cardboard - Part 2"
-categories: general
+categories: [general, board-games]
 ---
 In the second part of my transition from video to board games, I will talk about how I got into this hobby and why it is a fantastic alternative to video games for the blind and visually impaired.
 
