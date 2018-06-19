@@ -9,7 +9,7 @@ Since this topic ended up being a bit long, I decided to split it into two parts
 
 - Part 1 - Why I had to stop playing video games
 
-- Part 2 - Discovering a world that lives on a tabletop (upcoming post)
+- [Part 2 - Discovering a world that lives on a tabletop](https://sightless.fun/From-Ones-and-Zeroes-to-Cardboard-Part-2)
 
 In this first part, I will talk about how RP has affected the video games I could play. As time passed, the number of games dwindled, but there was a point in time where I could play anything and everything out there.
 
@@ -39,6 +39,6 @@ As RP was ravaging my retina (and now I was diagnosed and knew what was happenin
 
 Video games are something virtual, untouchable. Cardboard, plastic, and wood, however, are very touchable. What can you make out of those materials? Board Games, of course! Now, as a visually impaired person, you are still limited to which games you can play properly, however there's many games in the wild that we can play without having to rely on our sight. 
 
-Stay tuned for the second part of this post where I will give a brief overview on the different games that are available today and the modernization of board games since _Monopoly_. 
+Stay tuned for the [second part](https://sightless.fun/From-Ones-and-Zeroes-to-Cardboard-Part-2) of this post where I will give a brief overview on the different games that are available today and the modernization of board games since _Monopoly_. 
 
 Until next time!
