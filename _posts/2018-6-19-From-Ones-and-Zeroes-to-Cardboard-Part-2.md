@@ -1,3 +1,4 @@
+layout.html
 ---
 layout: post
 title: "From Ones and Zeroes to Cardboard - Part 2"
@@ -21,7 +22,7 @@ Initially, all I could see was a top-down view of a table with some cards on top
 
 I grabbed a chair and asked my brother to turn the speakers on so I could listen to the live stream. Hethen told me the main rules of the game so I could follow what was currently going on. _Secret Hitler_ is a social deduction game set in pre-WW2 Germany. There are two teams, Fascists and Liberals, to which players are randomly assigned to. One of the Fascist players takes the role of Hitler. The goal of the Fascists is to either put Hitler in power or enact a set number of Fascist policies, while the Liberals need to kill Hitler or enact a set number of Lieral policies without putting Hitler into power. The catch is, the Liberal players have no idea which party the other players belong to. The Fascists, on the other hand, know which player belongs to which party, but since they are fewer in number, they need to manipulate the Liberal players in order to win.
 
-After watching a couple of rounds, I started tuning in to TotalBiscuit's stream whenever they played _Secret Hitler_. I also researched to see if I could buy the physical version of this game, and found that the [Kickstarter](https://www.kickstarter.com/projects/maxtemkin/secret-hitler) funding was over, but to my pleasant surprise I found that the developers provided a free print-and-play PDF version of the game. The next day, my brother went to the printing shop to get it printed.
+After watching a couple of rounds, I started tuning in to TotalBiscuit's stream whenever they played _Secret Hitler_. I also researched to see if I could buy the physical version of this game, and found that the [Kickstarter](https://www.kickstarter.com/projects/maxtemkin/secret-hitler){:target="_blank"} funding was over, but to my pleasant surprise I found that the developers provided a free print-and-play PDF version of the game. The next day, my brother went to the printing shop to get it printed.
 
 ![Image showing the colored print and play version of Secret Hitler]({{ site.baseurl }}/images/secret_hitler_pnp.jpg "Secret Hitler Print and Play")
 _Image showing the colored print and play version of Secret Hitler_
@@ -50,7 +51,7 @@ Because I am planning to write a review for _Pandemic_, I'll just say that I hit
 
 I also wanted to have an introductory competitive game as well, and I purchased _King of New York_, a dice-chucking game where each player is a Kaiju (monsters like _King Kong_ and _Godzilla_), battling it out in New York City. This game uses Yahtzee-like mechanics, but instead of the ordinary 1-6 numbers on a 6 sided dice, you roll for attacking, healing, destroying buildings etc. This was then followed by a betting game, _Camel Up_, where players bet on racing camels!
 
-By now, I was sure that I was on to something. I was discovering a hobby that would fill the empty hole created by the lack of my ability to play video games. Slowly this was becoming an addiction. I began listening to board game podcasts, finding board game related YouTube channels, and checking the [/r/boardgames subreddit](https://reddit.com/r/boardgames) 5-10 times a day. Right now, my board game wish list slowly but steadily keeps growing. However, I must resist the urge to purchase more games until I've become bored of the ones I have. One of the reasons I started this blog was to prevent myself from making poor financial choices by ordering more games than I could play. I decided I will not get a new game until I have written visual accessibility reviews about the games I already have. 
+By now, I was sure that I was on to something. I was discovering a hobby that would fill the empty hole created by the lack of my ability to play video games. Slowly this was becoming an addiction. I began listening to board game podcasts, finding board game related YouTube channels, and checking the [/r/boardgames subreddit](https://reddit.com/r/boardgames){:target="_blank"} 5-10 times a day. Right now, my board game wish list slowly but steadily keeps growing. However, I must resist the urge to purchase more games until I've become bored of the ones I have. One of the reasons I started this blog was to prevent myself from making poor financial choices by ordering more games than I could play. I decided I will not get a new game until I have written visual accessibility reviews about the games I already have. 
 
 Moving from virtual to physical components is a great experience. Touching objects is a key part in a visually impaired person's life. The white cane is basically an extended hand that makes you touch things further in the distance so you can navigate as a blind human. From the fresh smell of high quality printed cardboard, through the sound of rolling dice on a tabletop, to the roaring laughter and cheering around the table, board gaming was turning out to be super exciting for me.
 
@@ -64,10 +65,10 @@ I'm looking forward to giving a more detailed look on the board games I have and
 
 I will list some resources below you may find useful if you want to learn more about board games.
 
-- Video: Secret Hitler Sunday - TotalBiscuit - [Link](https://www.youtube.com/watch?v=k69PbHoSWm4&list=PLe6giXxNj6JlwhA7JUZK8R96O8AYjFcAk)
+- Video: Secret Hitler Sunday - TotalBiscuit - [Link](https://www.youtube.com/watch?v=k69PbHoSWm4&list=PLe6giXxNj6JlwhA7JUZK8R96O8AYjFcAk){:target="_blank"}
 
-- PDF: Secret Hitler print-and-play, color version, credit /u/panoramix87 on reddit - [Link](https://1drv.ms/b/s!As0NUJnxyVaqktUqxcXgO3g-HsqK8g)
+- PDF: Secret Hitler print-and-play, color version, credit /u/panoramix87 on reddit - [Link](https://1drv.ms/b/s!As0NUJnxyVaqktUqxcXgO3g-HsqK8g){:target="_blank"}
 
-- Video: Tabletop Pandemic episode by Wil Wheaton [Link](https://www.youtube.com/watch?v=ytK1zDPPDhw&t=6s)
+- Video: Tabletop Pandemic episode by Wil Wheaton [Link](https://www.youtube.com/watch?v=ytK1zDPPDhw&t=6s){:target="_blank"}
 
-- Meeple Like Us - Board Game reviews and accessibility analysis [Link](http://meeplelikeus.co.uk/)
+- Meeple Like Us - Board Game reviews and accessibility analysis [Link](http://meeplelikeus.co.uk/){:target="_blank"}
