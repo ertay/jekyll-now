@@ -15,7 +15,7 @@ Unfortunately, as I was getting older and got into my late teens, that feeling o
 
 Another thing that I had heard a few times from my friends and family was "Didn't you see me waving my hand?". That question was asked to me by people walking next to me, so that 'waving hand' should've been picked up by my peripheral vision. I never gave it much thought and brushed it off as lack of attention. Then there were the occasional bumps into other people coming from sides (periphery) and tripping on random objects on the street. 
 
-Now, if you are a **good** ophthalmologist (unlike mine that I went to at the time), you should have an idea where this is going. In 2014, I was diagnosed with a condition named, [Retinitis Pigmentosa](https://en.wikipedia.org/wiki/Retinitis_pigmentosa). Doesn't it sound like a Harry Potter ~~spell~~ curse? Shortly, due to a genetic error, this disorder makes the cells in the retina (cones and rods), kill themselves. In some cases, this leads to complete blindness. As of this moment, there is no known cure, but with the latest technological advancements, there are a few different approaches to treating (and hopefully curing) this disorder. Right now, I am legally blind. I still have some vision left, so I'm hoping the cure comes sooner rather than later. I don't know what I would give to experience that 'standard TV resolution' into 'HD resolution' change again. Maybe this time it's going to be even better: 'audio' into 'video'.
+Now, if you are a **good** ophthalmologist (unlike mine that I went to at the time), you should have an idea where this is going. In 2014, I was diagnosed with a condition named, [Retinitis Pigmentosa](https://en.wikipedia.org/wiki/Retinitis_pigmentosa){:target="_blank"}. Doesn't it sound like a Harry Potter ~~spell~~ curse? Shortly, due to a genetic error, this disorder makes the cells in the retina (cones and rods), kill themselves. In some cases, this leads to complete blindness. As of this moment, there is no known cure, but with the latest technological advancements, there are a few different approaches to treating (and hopefully curing) this disorder. Right now, I am legally blind. I still have some vision left, so I'm hoping the cure comes sooner rather than later. I don't know what I would give to experience that 'standard TV resolution' into 'HD resolution' change again. Maybe this time it's going to be even better: 'audio' into 'video'.
 
 ## Why write this blog?
 
@@ -31,11 +31,11 @@ This meant I had to find new hobbies. Hobbies that require zero or minimal visio
 
 ## Audiobooks
 
-A close friend of mine suggested audiobooks. Around the same time I came across a Reddit thread about Star Wars novels and saw some positive comments about the production value of the Star Wars audiobooks. I got _Heir to the Empire_ by Timothy Zahn - the first book in the [Thrawn Trilogy](https://en.wikipedia.org/wiki/Thrawn_trilogy) and was instantly hooked. 2 years later, I have listened to over 80 audiobooks.
+A close friend of mine suggested audiobooks. Around the same time I came across a Reddit thread about Star Wars novels and saw some positive comments about the production value of the Star Wars audiobooks. I got _Heir to the Empire_ by Timothy Zahn - the first book in the [Thrawn Trilogy](https://en.wikipedia.org/wiki/Thrawn_trilogy){:target="_blank"} and was instantly hooked. 2 years later, I have listened to over 80 audiobooks.
 
 ## Indoor Rowing
 
-Last year, I found a [study](http://www.blindness.org/foundation-news/aerobic-exercise-preserves-vision-retinal-degeneration-lab-study) that aerobic exercise could potentially slow down the deterioration of my vision, so I started doing some research to find a physical activity that wasn't dangerous for me (I'm looking at you running/cycling) and wasn't boring. That's when I discovered indoor rowing. What a fantastic cardio workout! I've seen some people combine audiobooks with indoor rowing, but I still have not given that a shot.
+Last year, I found a [study](http://www.blindness.org/foundation-news/aerobic-exercise-preserves-vision-retinal-degeneration-lab-study){:target="_blank"} that aerobic exercise could potentially slow down the deterioration of my vision, so I started doing some research to find a physical activity that wasn't dangerous for me (I'm looking at you running/cycling) and wasn't boring. That's when I discovered indoor rowing. What a fantastic cardio workout! I've seen some people combine audiobooks with indoor rowing, but I still have not given that a shot.
 
 ## Board Games
 

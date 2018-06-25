@@ -10,4 +10,4 @@ This blog mostly covers my journey in finding fun things to do as my vision dete
 
 ### Contact me
 
-You can get in touch with me via [Twitter](http://twitter.com/ertaysh) or email at sightlessfun@outlook.com.
+You can get in touch with me via [Twitter](http://twitter.com/ertaysh){:target="_blank"} or email at sightlessfun@outlook.com.
