@@ -1,4 +1,3 @@
-layout.html
 ---
 layout: post
 title: "From Ones and Zeroes to Cardboard - Part 2"
