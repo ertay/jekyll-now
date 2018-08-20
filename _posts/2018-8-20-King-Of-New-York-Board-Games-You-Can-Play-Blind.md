@@ -3,7 +3,7 @@ layout: post
 title: "King Of New York - Board Games You Can Play Blind"
 categories: board-games
 ---
-New York City, monsters' favorite spot to play dominoes and hold their regular 'Fight Club' events. Tonight, the giant monsters appear to be disturbed as there is a new strange beast in town. A kaiju that does not seem to have eyes, yet can sense every tiny change in the living world around it! Can the blind creature become the King of New York?
+New York City, monsters' favorite spot to play dominoes and hold their regular 'Fight Club' events. Tonight, the giant monsters appear to be disturbed as there is a new strange beast in town. A kaiju that does not seem to have eyes, yet can sense every tiny change in the living world around it! Can the blind creature become the King Of New York?
 
 ## Introduction
 
@@ -26,12 +26,12 @@ _Image showing all the game components_
 
 King Of New York is a competitive dice game where players take the role of giant monsters that battle with each other in the city of New York. The winner of the game is the player that either collects 20 Victory Points or is the last monster standing. 
 
-At the beginning of the game, each player chooses a borough to start in. They can choose between Brooklyn, Queens, The Bronx, and Staten Island. Manhatan is a special borough that the starting player will move to at the end of their first turn. After choosing their starting locations, buildings that give different benefits when destroyed are randomly put to  all the boroughs. The starting playere is deteremined by each of them rolling all the dice once and counting the 'Claws' that they rolled. The player that rolls the highest number of claws is the first to start.
+At the beginning of the game, each player chooses a borough to start in. They can choose between Brooklyn, Queens, The Bronx, and Staten Island. Manhatan is a special borough that the starting player will move to at the end of their first turn. After choosing their starting locations, buildings that give different benefits when destroyed are randomly put to  all the boroughs. The starting player is determined by each of them rolling all the dice once and counting the 'Claws' that they rolled. The player that rolls the highest number of claws is the first to start.
 
 The main driver of the player actions are the dice. On a player's turn, six dice can be rolled up to three times (just like Yahtzee if you are familiar with the classic game). Depending on what the player has rolled, they can attack other monsters, heal themselves, get damaged by the military units, collect energy cubes which represent money to buy power-ups, destroy a building or a military unit, or simply collect victory points. After the first roll, the player can choose to keep some of the dice they like and continue rolling the rest. When they are finished  rolling, they resolve the actions on their dice.
 
 ![Image showing the actions on the dice]({{ site.baseurl }}/images/kony-dice.jpg "King Of New York Dice")
-_Image showing the acations on the dice_
+_Image showing the actions on the dice_
 
 Let's briefly explain how each action works:
 
