@@ -9,7 +9,7 @@ New York City, monsters' favorite spot to play dominoes and hold their regular '
 
 In today's episode of 'Board Games You Can Play Blind' we will talk about a game that takes the classic Yahtzee dice rolling mechanic, adds some monsters and power-ups, and creates an exciting battleground that can be enjoyed by children and adults!
 
-Similar to the structure of the previous articles, the first thing we'll do is go through the game overview and briefly talk about the game rules. We will then dedicate a section to the visual accessibility of _King Of New York_ and analyze the difficulties blind players may experience.
+The first thing we'll do is go through the game overview and briefly talk about the game rules. We will then dedicate a section to the visual accessibility of _King Of New York_ and analyze the difficulties blind players may experience.
 
 ![Image showing all the game components]({{ site.baseurl }}/images/kony-full.jpg "King Of New York Components")
 _Image showing all the game components_
