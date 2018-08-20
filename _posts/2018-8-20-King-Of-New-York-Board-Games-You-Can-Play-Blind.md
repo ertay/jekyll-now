@@ -37,13 +37,13 @@ Let's briefly explain how each action works:
 
 - *Claws* - The claws symbol means that the monster attacks other monsters. If the player is located in Manhattan, they damage all monsters in other boroughs. On the other hand, when a monster is in any of the 4 other  boroughs, they attack the monsters in Manhattan. When a player in Manhattan is attacked, they may choose to flee Manhattan so they can heal on their turn.
 
-- *Heart* - The heart symbol represents healing. A monster can only heal when they are outside of Manhattan.
+- *Heart* - The heart symbol represents healing. A monster can only heal when it is outside of Manhattan.
 
 - *Skull* - When a player rolls the skull symbol (also called 'Ouch'), if there are military units in the borough where their monster is located at, they receive damage. If they roll 2 skull symbols, the military damages both of the monsters located in that borough. Rolling 3 or more skulls will trigger all military units in every borough to open fire and damage all monsters.
 
 - *Lightning Bolt* - When a player rolls this symbol, they receive energy cubes which they can later spend to purchase power-up cards.
 
-- *Building* - The building symbol lets players destroy buildings or military units in the borough they are currently located in. Destroying buildings or military units can award Vvictory Points, energy cubes or health.
+- *Building* - The building symbol lets players destroy buildings or military units in the borough they are currently located in. Destroying buildings or military units can award victory Points, energy cubes or health.
 
 - *Star* - In order to start collecting Victory Points from the star symbols, the player needs to roll 3 stars on their turn to get the 'Superstar' card. With this card the player can get Victory Points for each star they roll. When another player rolls 3 stars, they steal the card and become the new 'Superstar'.
 
