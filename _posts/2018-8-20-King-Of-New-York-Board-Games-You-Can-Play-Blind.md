@@ -105,7 +105,7 @@ _Image showing power-up cards_
 
 ## Conclusion
 
-If you happen to enjoy dice chucking like me, you will have a lot of fun with this game. Ganging up with your opponents to destroy a monster who is leading or getting pounded by the military due to horrible rolls can produce a lot of laughs around the table. If you like what you see, but it sounds too complicated for you, I suggest checking out _King Of Tokyo_. I will link to the _Meeple Like Us_ accessibility teardown of that game in t he _Resources_ section below. Most, if not all, of  the observations in that article apply to this game as well.
+If you happen to enjoy dice chucking like me, you will have a lot of fun with this game. Ganging up with your opponents to destroy a monster who is leading or getting pounded by the military due to horrible rolls can produce a lot of laughs around the table. If you like what you see, but it sounds too complicated for you, I suggest checking out _King Of Tokyo_. I will link to the _Meeple Like Us_ accessibility teardown of that game in the _Resources_ section below. Most, if not all, of the observations in that article apply to this game as well.
 
 Overall, King Of New York gets a high rating for visual accessibility from me. Sightless players shouldn't need more than a couple games to feel comfortable with the rules which is the same for sighted players. I should mention that the expansion to this game introduces 'Evolution' cards, which are supposed to be hidden from your opponents, so you should know that this can present an accessibility problem if you are playing with a blind friend.
 
