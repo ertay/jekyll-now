@@ -26,16 +26,16 @@ _Image showing all the game components_
 
 King Of New York is a competitive dice game where players take the role of giant monsters that battle with each other in the city of New York. The winner of the game is the player that either collects 20 Victory Points or is the last monster standing. 
 
-At the beginning of the game, each player chooses a borough to start in. They can choose between Brooklyn, Queens, The Bronx, and Staten Island. Manhatan is a special borough that the starting player will move to at the end of their first turn. After choosing their starting locations, buildings that give different benefits when destroyed are randomly put to  all the boroughs. The starting player is determined by each of them rolling all the dice once and counting the 'Claws' that they rolled. The player that rolls the highest number of claws is the first to start.
+At the beginning of the game, each player chooses a borough to start in. They can choose between Brooklyn, Queens, The Bronx, and Staten Island. Manhattan is a special borough that the starting player will move to at the end of their first turn. After choosing their starting locations, buildings that give different benefits when destroyed are randomly put to all the boroughs. The starting player is determined by each of them rolling all the dice once and counting the 'Claws' that they rolled. The player that rolls the highest number of claws is the first to start.
 
-The main driver of the player actions are the dice. On a player's turn, six dice can be rolled up to three times (just like Yahtzee if you are familiar with the classic game). Depending on what the player has rolled, they can attack other monsters, heal themselves, get damaged by the military units, collect energy cubes which represent money to buy power-ups, destroy a building or a military unit, or simply collect victory points. After the first roll, the player can choose to keep some of the dice they like and continue rolling the rest. When they are finished  rolling, they resolve the actions on their dice.
+The main driver of the player actions are the dice. On a player's turn, six dice can be rolled up to three times (just like Yahtzee if you are familiar with the classic game). Depending on what the player has rolled, they can attack other monsters, heal themselves, get damaged by the military units, collect energy cubes which represent money to buy power-ups, destroy a building or a military unit, or simply collect victory points. After the first roll, the player can choose to keep some of the dice they like and continue rolling the rest. When they are finished rolling, they resolve the actions on their dice.
 
 ![Image showing the actions on the dice]({{ site.baseurl }}/images/kony-dice.jpg "King Of New York Dice")
 _Image showing the actions on the dice_
 
 Let's briefly explain how each action works:
 
-- *Claws* - The claws symbol means that the monster attacks other monsters. If the player is located in Manhattan, they damage all monsters in other boroughs. On the other hand, when a monster is in any of the 4 other  boroughs, they attack the monsters in Manhattan. When a player in Manhattan is attacked, they may choose to flee Manhattan so they can heal on their turn.
+- *Claws* - The claws symbol means that the monster attacks other monsters. If the player is located in Manhattan, they damage all monsters in other boroughs. On the other hand, when a monster is in any of the 4 other boroughs, they attack the monsters in Manhattan. When a player in Manhattan is attacked, they may choose to flee Manhattan so they can heal on their turn.
 
 - *Heart* - The heart symbol represents healing. A monster can only heal when it is outside of Manhattan.
 
@@ -51,7 +51,7 @@ Before the player turn is complete, after resolving the actions on the dice, the
 
 After the movement phase, the player has one final thing to do before completing their turn: purchasing power-ups. There is a deck of power-up cards that represents the marketplace. The marketplace has 3 different power-ups at any given time. When a player buys a card, a new one is drawn and displayed on the marketplace. The player can also choose to spend 2 energy cubes to discard all 3 cards and replace them with 3 new cards from the top of the deck. This usually happens when a player tries to prevent other players with more money from buying a strong power-up. With the conclusion of this phase, the player turn ends and the next player starts rolling the dice.
 
-King Of New York is the younger brother of _King Of Tokyo_, however, it is more mature and has more depth. The added depth results in increased complexity. If you want a simpler variant of this game, one that removes military units, buildings, moving from borough to borough, I recommend checking out _King of Tokyo_. Children youngere than 10 might enjoy the first game (Tokyo) more than this one due to its simplicity. If you want a little more strategy and choices during your turns, you will enjoy King Of New York.
+King Of New York is the younger brother of _King Of Tokyo_, however, it is more mature and has more depth. The added depth results in increased complexity. If you want a simpler variant of this game, one that removes military units, buildings, moving from borough to borough, I recommend checking out _King of Tokyo_. Children younger than 10 might enjoy the first game (Tokyo) more than this one due to its simplicity. If you want a little more strategy and choices during your turns, you will enjoy King Of New York.
 
 Now that we've covered how the game plays, let's see how visually accessible it is.
 
@@ -61,7 +61,7 @@ I will divide this section into two subsections: Gameplay and Game Component Acc
 
 ### Gameplay
 
-The first key point we should mention is the fact that there is no hidden information in King Of New York. Dice rolls, powewr-up cards, energy cube amounts, and monster health and Victory Point status are all publicly available. This means that blind or visually impaired players do not need modified game components to be able to play the game.
+The first key point we should mention is the fact that there is no hidden information in King Of New York. Dice rolls, power-up cards, energy cube amounts, and monster health and Victory Point status are all publicly available. This means that blind or visually impaired players do not need modified game components to be able to play the game.
 
 The separation of a player's turn into multiple phases also helps separate the information about the state of the game to a blind player. What I mean by this is, the blind player does not need to know every single detail on the board at all times to be able to keep up with others. For instance, in the dice rolling phase, here's a short list of things I need to know to decide how I want to play:
 
@@ -86,9 +86,9 @@ The first thing I want to talk about in this section, which also happen to be my
 ![Image showing large King Of New York die next to a Camel Up die and a generic 16mm die]({{ site.baseurl }}/images/kony-dice-comparison.jpg "King Of New York Dice Comparison")
 _Image showing large King Of New York die next to a Camel Up die and a generic 16mm die_
 
-The symbols on the dice are well contrasted and quite large. For visually impaired people that still have some sight left, this is a great thing. Blind players may also figure out what they  have rolled by touch, but usually another player just telling them is much faster. 
+The symbols on the dice are well contrasted and quite large. For visually impaired people that still have some sight left, this is a great thing. Blind players may also figure out what they have rolled by touch, but usually another player just telling them is much faster. 
 
-The monsters are also quite large, and if you have some sight left in your eyes, you  may be aable to distinguish  one from another to see where they are currently located on the map. The monster boards where you track your health and Victory Points however can be a little more problematic. Even though I have some sight left, I require another player to move the circular  dials for me. If you don't trust your fellow player, it is a good idea to memorize the current status of your monster!
+The monsters are also quite large, and if you have some sight left in your eyes, you may be able to distinguish one from another to see where they are currently located on the map. The monster boards where you track your health and Victory Points however can be a little more problematic. Even though I have some sight left, I require another player to move the circular dials for me. If you don't trust your fellow player, it is a good idea to memorize the current status of your monster!
 
 ![Image showing monsters on their stands]({{ site.baseurl }}/images/kony-monsters.jpg "King Of New York Monsters")
 _Image showing monsters on their stands_
