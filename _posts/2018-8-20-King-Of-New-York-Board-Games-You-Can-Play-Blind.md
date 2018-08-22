@@ -109,7 +109,7 @@ If you happen to enjoy dice chucking like me, you will have a lot of fun with th
 
 Overall, King Of New York gets a high rating for visual accessibility from me. Sightless players shouldn't need more than a couple games to feel comfortable with the rules which is the same for sighted players. I should mention that the expansion to this game introduces 'Evolution' cards, which are supposed to be hidden from your opponents, so you should know that this can present an accessibility problem if you are playing with a blind friend.
 
-If you're new her, and enjoyed this post, check out my previous posts where I talk about [Pandemic]({{ site.baseurl }}/Pandemic-Board-Games-You-Can-Play-Blind/), [Secret Hitler]({{ site.baseurl }}/Secret-Hitler-Board-Games-You-Can-Play-Blind/), and [Camel Up]({{ site.baseurl }}/Camel-Up-Board-Games-You-Can-Play-Blind/).
+If you're new here and enjoyed this post, check out my previous posts where I talk about [Pandemic]({{ site.baseurl }}/Pandemic-Board-Games-You-Can-Play-Blind/), [Secret Hitler]({{ site.baseurl }}/Secret-Hitler-Board-Games-You-Can-Play-Blind/), and [Camel Up]({{ site.baseurl }}/Camel-Up-Board-Games-You-Can-Play-Blind/).
 
 ### Resources
 
